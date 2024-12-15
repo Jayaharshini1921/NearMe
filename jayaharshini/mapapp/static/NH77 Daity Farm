@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NH77 Dairy Farm</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: #32a852;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+        }
+        section {
+            margin: 20px;
+            text-align: center;
+        }
+        section img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin: 20px;
+            color: #555;
+        }
+        footer {
+            background-color: #32a852;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>NH77 Dairy Farm</h1>
+    </header>
+
+    <section>
+        <img src="dairy_farm.jpg" alt="NH77 Dairy Farm">
+        <p>Located along the bustling NH77 highway, the NH77 Dairy Farm is a serene oasis of agricultural excellence and natural beauty. Known for its high-quality milk production and sustainable farming practices, the farm has become a landmark in the region.</p>
+        <p>The dairy farm is surrounded by lush greenery and offers visitors a chance to witness modern dairy farming processes. It’s not just a farm—it’s a place where nature and innovation come together to produce some of the finest dairy products in the region.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 NH77 Dairy Farm. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
